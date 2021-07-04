@@ -6,3 +6,4 @@ git checkout -- <file>
 	111 dev
 	222 dev
 	333 dev
+	Git is a free software ...”
